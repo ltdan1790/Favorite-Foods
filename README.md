@@ -1,2 +1,0 @@
-"# Favorite-Foods" 
-# Favorite-Foods
